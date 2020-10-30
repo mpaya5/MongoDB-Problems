@@ -1,5 +1,8 @@
 # MongoDB Problems
+
 ## Troubleshoot Mongoose issues and warnings in NodeJS
+
+*If after following the steps to create a [Database with MongoDB](https://github.com/yumewebs/Backend-MongoDB) you have problems, try to follow this steps:*
 
 When we work with MongoDB within a NodeJS project, we usually use Mongoose, which allows us to work better with this noSQL and non-relational database system in a simpler way.
 
